@@ -4,7 +4,7 @@
 <strong>Introduction</strong>
 ***
 
-The aim of the project is to develop a simple algorithm to count the number of people in the room. This algorithm was part of a bigger project, but his repository will only focus on the algorithm.
+Project done for Singapore Polytechnic's Digital Electronic (DE) module. Students were tasked to build a simple 60 second stop watch using simple electronic components.
 
 ***
 
@@ -12,4 +12,4 @@ The aim of the project is to develop a simple algorithm to count the number of p
 
 ***
 
-"https://youtube.com/embed/nILaMWWoH28"
+
