@@ -1,4 +1,4 @@
-# Singapore Polytechnic-Centroid Counter
+# Singapore Polytechnic-Digital Electronics
  
 *** 
 <strong>Introduction</strong>
