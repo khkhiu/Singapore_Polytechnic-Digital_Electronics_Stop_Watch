@@ -8,8 +8,9 @@ Project done for Singapore Polytechnic's Digital Electronic (DE) module. Student
 
 ***
 
-<strong>Video demonstration</strong>
+<strong>Link to write up</strong>
 
 ***
+https://khkhiu.github.io/project/SP-DigitalElectronics/
 
 
