@@ -7,8 +7,8 @@ Requirements
 2. A 'Reset' push button that resets the counter to 00 when activated. The counter will then remain at 00 until it is started again through the use of the Start/Stop switch
 3. A 'Start' and 'Stop' switch that starts stop the counter at its current count value respectively.
 
-|![Counter](https://khkhiu.github.io/assets/images/SP-DE/Counter.png)|
-|<em>Figure of counter</em>|
+![Counter](https://khkhiu.github.io/assets/images/SP-DE/Counter.png)
+<em>Figure of counter</em>
 
 ***
 
@@ -26,11 +26,11 @@ The following segments documents the actions used to fulfill the requirements
 
 <strong>Circuit board design</strong>
 
-|![Multi-sim design](https://khkhiu.github.io/assets/images/SP-DE/MS_diagram.png)|
-|<em>Multi-sim design</em>|
+![Multi-sim design](https://khkhiu.github.io/assets/images/SP-DE/MS_diagram.png)|
+<em>Multi-sim design</em>
 
-|![Circuit board design](https://khkhiu.github.io/assets/images/SP-DE/CircuitBoard.png)|
-|<em>Circuit board design</em>|
+![Circuit board design](https://khkhiu.github.io/assets/images/SP-DE/CircuitBoard.png)|
+<em>Circuit board design</em>
 
 <strong>MOD 60 logic</strong>
 MOD 60= MOD 6 * MOD 10
@@ -40,18 +40,18 @@ Therefore, to achieve MOD 10, reset needs to be connected to Q:B and Q:D. Simila
 
 <strong>Reset logic</strong>
 
-|![74LS293](https://khkhiu.github.io/assets/images/SP-DE/74LS293.png)|
-|<em>Internal layout of a 74LS293</em>|
+![74LS293](https://khkhiu.github.io/assets/images/SP-DE/74LS293.png)
+<em>Internal layout of a 74LS293</em>
 
 From the Internal layout of a 74LS293 and Multi-sim diagrams, we can see that the reset logic is as follows:
 
-|![Reset logic](https://khkhiu.github.io/assets/images/SP-DE/Reset.png)|
-|<em>Reset logic</em>|
+![Reset logic](https://khkhiu.github.io/assets/images/SP-DE/Reset.png)
+<em>Reset logic</em>
 
 Using boolean algebra, 2 NAND gate equals 1 AND gate.
 
-|![And gate logic](https://khkhiu.github.io/assets/images/SP-DE/AND_gate.png)|
-|<em>2 NAND gate = 1 AND gate</em>|
+![And gate logic](https://khkhiu.github.io/assets/images/SP-DE/AND_gate.png)
+<em>2 NAND gate = 1 AND gate</em>
 
 The RESET switch outputs Logic: High by default. The output of the NAND gates is also Logic: High until both inputs are Logic: High.
 
