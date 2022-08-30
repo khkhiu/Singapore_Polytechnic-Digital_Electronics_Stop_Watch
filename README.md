@@ -8,6 +8,7 @@ Requirements
 3. A 'Start' and 'Stop' switch that starts stop the counter at its current count value respectively.
 
 ![Counter](https://khkhiu.github.io/assets/images/SP-DE/Counter.png)
+
 <em>Figure of counter</em>
 
 ***
@@ -26,10 +27,10 @@ The following segments documents the actions used to fulfill the requirements
 
 <strong>Circuit board design</strong>
 
-![Multi-sim design](https://khkhiu.github.io/assets/images/SP-DE/MS_diagram.png)|
+![Multi-sim design](https://khkhiu.github.io/assets/images/SP-DE/MS_diagram.png)
 <em>Multi-sim design</em>
 
-![Circuit board design](https://khkhiu.github.io/assets/images/SP-DE/CircuitBoard.png)|
+![Circuit board design][(https://khkhiu.github.io/assets/images/SP-DE/CircuitBoard.png)]
 <em>Circuit board design</em>
 
 <strong>MOD 60 logic</strong>
