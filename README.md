@@ -31,10 +31,6 @@ The following segments documents the actions used to fulfill the requirements
 
 <em>Multi-sim design</em>
 
-![Circuit board](https://khkhiu.github.io/assets/images/SP-DE/CircuitBoard.png)
-
-<em>Circuit board design</em>
-
 <strong>MOD 60 logic</strong>
 MOD 60= MOD 6 * MOD 10
 Bin:10=1010
