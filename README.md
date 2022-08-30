@@ -31,7 +31,7 @@ The following segments documents the actions used to fulfill the requirements
 
 <em>Multi-sim design</em>
 
-![Circuit board design](https://khkhiu.github.io/assets/images/SP-DE/CircuitBoard.png)
+![Circuit board](https://khkhiu.github.io/assets/images/SP-DE/CircuitBoard.png)
 
 <em>Circuit board design</em>
 
