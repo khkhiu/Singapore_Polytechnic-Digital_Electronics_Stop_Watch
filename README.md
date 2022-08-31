@@ -16,7 +16,7 @@ Requirements
 <strong>Video demonstration</strong>
 
 ***
-[![Video demonstration](http://img.youtube.com/vi/zE6u8XP3k24/0.jpg)](http://www.youtube.com/watch?v=zE6u8XP3k24)
+[![Video demonstration](http://img.youtube.com/vi/riq94NSVjIQ/0.jpg)](http://www.youtube.com/watch?v=riq94NSVjIQ)
 
 ***
 
